@@ -11,4 +11,7 @@
 **3. Year on Year Growth of Casualties - YoY Casualties Measure**
 * `YoY Casualties = ([CY Casualties] - [PY Casualties])/[PY Casualties]`
 
+**4. Current Year Accidents -- CY Accidents Measure**
+*  `CY Accidents = TOTALYTD(COUNT(Data[Accident_Index]), 'Calendar'[Date])`
+
   
