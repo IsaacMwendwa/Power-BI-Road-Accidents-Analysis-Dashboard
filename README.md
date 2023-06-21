@@ -23,6 +23,10 @@
 * Total Casualties and Total Accident by Location
 
 ## Installation/Usage
+* Install Power BI Desktop from Official [Power BI Download Site](https://powerbi.microsoft.com/en-us/downloads/)
+* Download data files from link given in Introduction
+* Clone/download this repository to your local machine
+* Open Dashboard report file (Road Accidents Dashboard.pbix) in Power BI Desktop, to access the dashboard's interactivity 
 
 ## DAX Formulas Used in Measures
 
