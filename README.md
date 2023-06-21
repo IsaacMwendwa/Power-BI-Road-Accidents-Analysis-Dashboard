@@ -2,7 +2,14 @@
 
 ![Dashboard Image](https://github.com/IsaacMwendwa/PBI-Road-Accident-Analysis/blob/main/Final%20Dashboard%20Image.PNG "Final Dashboard Image")
 
-#### Power BI DAX Formulas Used in Measures
+## Table of Contents
+* [Introduction](#Introduction)
+* [Dashboard Requirements](#Dashboard-Requirements)
+* [Installation](#Installation)
+* [DAX Formulas Used in Measures](#DAX-Formulas-Used-in-Measures)
+* [Authors](#Authors)
+  
+## Power BI DAX Formulas Used in Measures
 
 **1. Total Casualties For Current Year and Year on Year Growth**
 
